@@ -5,7 +5,7 @@ tags: fpga vga verilog
 categories: demo
 ---
 
-Add a short welcome message or introduction here. Aim to get the viewer interested in what follows! Guideline: 1 or 2 sentences.
+Hello there, David here. My SOC project is a Number Display. You flick a switch and a number appears. The numbers are from 1 to 16. The switch number order gies from left to right (smallest to largest)
 
 ## **Template VGA Design**
 ### **Project Set-Up**
