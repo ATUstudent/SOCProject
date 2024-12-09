@@ -1,12 +1,13 @@
 
 ##** FPGA VGA Driver Project**##
+
 David : G00422935
 
-Hello there, David here. My SOC project is a Flashing cross design. You flick a vga on and the color changes. . The colors in the background change to the cros
+Hello there, David here. My System on Chip (SOC) project is a Flashing cross design. The Artix-7 Board turns on, once connected to the monitor with a vga and the color changes. . The colors in the background changes to the color of the cross and the reverse too.
 
 ## **Template VGA Design**
 ### **Project Set-Up**
-Vivado was used to created the project. I followed an example design on moodle.The output clock frequency had to be customized to 25MHz, which allowed the VGA signal and syncs timing can match. Then I processed to work on the project
+Vivado was used to created the project. I followed an example design on moodle.The output clock frequency had to be customized to 25MHz, which allowed the VGA signal and syncs timing can match. By following the template code, I was able to display the Color Cycle and the Color Stripes. This allo
 
 <img src="https://raw.githubusercontent.com/melgineer/fpga-vga-verilog/main/docs/assets/images/VGAPrjSum.png">
 ### **Template Code**
@@ -19,9 +20,11 @@ Describe the synthesis and implementation processes. Consider including 1/2 usef
 Perhaps add a picture of your demo. Guideline: 1/2 sentences.
 
 ## **My VGA Design Edit**
+<img src="https://raw.githubusercontent.com/melgineer/fpga-vga-verilog/main/docs/assets/images/IMG20241125173517.jpg">
 Introduce your own design idea. Consider how complex/achievabble this might be or otherwise. Reference any research you do online (use hyperlinks).
 ### **Code Adaptation**
 Briefly show how you changed the template code to display a different image. Demonstrate your understanding. Guideline: 1-2 short paragraphs.
+
 ### **Simulation**
 Show how you simulated your own design. Are there any things to note? Demonstrate your understanding. Add a screenshot. Guideline: 1-2 short paragraphs.
 ### **Synthesis**
