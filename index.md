@@ -1,15 +1,12 @@
----
-layout: home
-title: FPGA VGA Driver Project
-tags: fpga vga verilog
-categories: demo
----
+
+##** FPGA VGA Driver Project**##
+David : G00422935
 
 Hello there, David here. My SOC project is a Flashing cross design. You flick a vga on and the color changes. . The colors in the background change to the cros
 
 ## **Template VGA Design**
 ### **Project Set-Up**
-Summarise the project set-up and design flow. Include a screenshot of your own set-up, for example see the image of my Project Summary window below. Guideline 1 short paragraph.
+Vivado was used to created the project. I followed an example design on moodle.The output clock frequency had to be customized to 25MHz, which allowed the VGA signal and syncs timing can match. Then I processed to work on the project
 
 <img src="https://raw.githubusercontent.com/melgineer/fpga-vga-verilog/main/docs/assets/images/VGAPrjSum.png">
 ### **Template Code**
