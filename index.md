@@ -5,7 +5,7 @@ tags: fpga vga verilog
 categories: demo
 ---
 
-Hello there, David here. My SOC project is a Number Display. You flick a switch and a number appears. The numbers are from 1 to 16. The switch number order gies from left to right (smallest to largest)
+Hello there, David here. My SOC project is a Flashing cross design. You flick a vga on and the color changes. . The colors in the background change to the cros
 
 ## **Template VGA Design**
 ### **Project Set-Up**
